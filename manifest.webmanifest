@@ -1,0 +1,17 @@
+{
+    "name": "Hubert Janus",
+    "short_name": "Janus",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000",
+    "description": "Hubert Janus",
+    "icons": [{
+        "src": "images/logo.png",
+        "sizes": "103x17",
+        "type": "image/png"
+    }],
+    "related_applications": [{
+        "platform": "play",
+        "url": "https//:hubertjanus.pl"
+    }]
+}
